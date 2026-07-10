@@ -23,7 +23,6 @@ I'm passionate about building software that is **clean, maintainable, scalable, 
 
 ## 🛠️ Technology Stack
 
-## 🛠️ Technology Stack
 
 | **Category**          | **Technologies**                                                         |
 | --------------------- | ------------------------------------------------------------------------ |
