@@ -26,7 +26,7 @@ I'm passionate about building software that is **clean, maintainable, scalable, 
 
 | **Category**          | **Technologies**                                                         |
 | --------------------- | ------------------------------------------------------------------------ |
-| 💻 **Backend**        | C#, .NET Core/.NET 9, ASP.NET Core, Entity Framework Core, Web API, LINQ |
+| 💻 **Backend**        | C#, .NET Core/.NET 9, NodeJS, Python, Web API, Fastapi |
 | 🎨 **Frontend**       | React, Angular, Vue.js, Blazor, TypeScript, JavaScript, HTML5, CSS3      |
 | 🤖 **AI/LLMs**        | OpenAI, Azure OpenAI, LangChain, LangGraph, CrewAI, AG2, RAG, AI Agents  |
 | 🗄️ **Databases**     | SQL Server, PostgreSQL, Oracle, MongoDB, Pinecone, Chroma, Qdrant        |
