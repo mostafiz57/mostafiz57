@@ -23,63 +23,19 @@ I'm passionate about building software that is **clean, maintainable, scalable, 
 
 ## 🛠️ Technology Stack
 
-### 💻 Backend
+## 🛠️ Technology Stack
 
-* C#
-* .NET Core / .NET 9
-* ASP.NET Core
-* Entity Framework Core
-* Web API
-* LINQ
-* SQL Server
-* PostgreSQL
-* Oracle
-* MongoDB
+| **Category**          | **Technologies**                                                         |
+| --------------------- | ------------------------------------------------------------------------ |
+| 💻 **Backend**        | C#, .NET Core/.NET 9, ASP.NET Core, Entity Framework Core, Web API, LINQ |
+| 🎨 **Frontend**       | React, Angular, Vue.js, Blazor, TypeScript, JavaScript, HTML5, CSS3      |
+| 🤖 **AI/LLMs**        | OpenAI, Azure OpenAI, LangChain, LangGraph, CrewAI, AG2, RAG, AI Agents  |
+| 🗄️ **Databases**     | SQL Server, PostgreSQL, Oracle, MongoDB, Pinecone, Chroma, Qdrant        |
+| ☁️ **Cloud & DevOps** | Azure, AWS, Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD      |
+| 🏛️ **Architecture**  | Clean Architecture, Microservices, DDD, SOLID, Repository Pattern        |
+| 🧪 **Testing**        | xUnit, Moq, AutoFixture, Cypress, Cucumber, Jasmine, TDD                 |
+| 🔗 **Integration**    | REST APIs, GraphQL, SignalR, Payment Gateways, OAuth, JWT                |
 
-### 🎨 Frontend
-
-* React
-* Angular
-* Vue.js
-* Blazor
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Telerik UI
-* Ignite UI
-
-### 🤖 Artificial Intelligence
-
-* OpenAI API
-* Azure OpenAI
-* LangChain
-* LangGraph
-* CrewAI
-* AG2
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* Prompt Engineering
-* Function Calling
-* Vector Databases
-
-  * Pinecone
-  * Chroma
-  * Qdrant
-
-### ☁️ Cloud & DevOps
-
-* Microsoft Azure
-* Amazon Web Services (AWS)
-* Docker
-* Kubernetes
-* Azure DevOps
-* GitHub Actions
-* CI/CD Pipelines
-* Git
-
----
 
 ## 🏗️ Areas of Expertise
 
